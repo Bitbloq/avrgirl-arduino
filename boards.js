@@ -261,7 +261,7 @@ var boards = [
   },
   {
     name: 'bqZum',
-    baud: 115200,
+    baud: 19200,
     signature: Buffer.from([0x1e, 0x95, 0x0f]),
     pageSize: 128,
     numPages: 256,
