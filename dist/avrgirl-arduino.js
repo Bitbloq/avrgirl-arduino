@@ -12587,7 +12587,7 @@ module.exports = AvrgirlArduino(boards, Connection, protocols);
     signature: Buffer.from([0x1e, 0x95, 0x0f]),
     pageSize: 128,
     numPages: 256,
-    timeout: 400,
+    timeout: 800,
     productId: ['0x6001', '0x7523'],
     productPage: 'http://diwo.bq.com/zum-bt-328-especificaciones-tecnicas/',
     protocol: 'stk500v1'
